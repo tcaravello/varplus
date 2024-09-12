@@ -1,0 +1,4 @@
+Please download posterior mode and draws from:
+https://www.dropbox.com/scl/fo/zi78j833q1py3w312dm0x/ADee6QczKcb7dqTgQXxRTwY?rlkey=ryb5ilyx0ywjftk2j1lmsz882&e=1&dl=0
+
+replace the current /suff_stats folder with the one downloaded from the link.
