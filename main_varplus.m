@@ -12,9 +12,6 @@ warning('off','MATLAB:dispatcher:nameConflict')
 warning('off','MATLAB:declareGlobalBeforeUse')
 
 path = '/Users/tomyc/Dropbox (MIT)/mp_modelcnfctls/code/github_public/varplus';
-%path = '/Users/christianwolf/Dropbox/Research/mp_modelcnfctls/code/replication';
-% path = '/Users/iragm01/Library/CloudStorage/Dropbox/mp_modelcnfctls/code/replication';
-
 vintage = '';
 
 addpath([path vintage '/_auxiliary_functions'])
