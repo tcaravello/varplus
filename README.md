@@ -6,7 +6,7 @@ Tested in Matlab R2022b on a Dell Inspiron 15.
 In order to produce most Figures and Tables, the posterior mode and posterior draws for policy causal effect matrices are required.
 Due to its size (~7.5 GB), these are not included in this repository. They must be downloaded from [here](https://www.dropbox.com/scl/fo/zi78j833q1py3w312dm0x/ADee6QczKcb7dqTgQXxRTwY?rlkey=ryb5ilyx0ywjftk2j1lmsz882&e=1&dl=0). Then, the /suff_stats folder in this repository must be replaced with the one downloaded above. 
 
-To ensure that all codes run, the variable "path"---located near the top of the various m-files---needs to be changed to reflect the local machine.
+To ensure that all codes run, the variable "path"---located near the top of the various m-files---needs to be changed to reflect the correct path in the user's machine.
 
 # Contents
 [readme.pdf](https://github.com/tcaravello/varplus/blob/main/varplus_readme.pdf): contains detailed instructions for using this repository. The main points are summarized below.
