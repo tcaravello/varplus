@@ -27,7 +27,7 @@ cd([path vintage task]);
 %----------------------------------------------------------------
 
 model      = '/rank'; %type '/rank' for RANK and'/hank' for HANK
-behavioral = 0; %1 if you want to estimate the behavioral parameters, 0 if you want to do ratex
+behavioral = 0; % 1 if you want to estimate the behavioral parameters, 0 if you want to do ratex
 
 %----------------------------------------------------------------
 % Settings

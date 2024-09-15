@@ -55,8 +55,6 @@ catch ME
    rethrow(ME)
 end
 
-
-
 T = size(Pi_m_hank,1);
 
 m_fit_hank = [m_fit_hank;zeros(T-length(m_fit_hank),1)];

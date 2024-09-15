@@ -17,7 +17,6 @@ catch ME
    rethrow(ME)
 end
 
-
 T       = size(Pi_m_collector_non_behav,1);
 n_draws = size(Pi_m_collector_non_behav,3);
 

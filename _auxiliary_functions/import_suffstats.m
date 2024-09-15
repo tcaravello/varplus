@@ -17,8 +17,6 @@ catch ME
    rethrow(ME)
 end
 
-
-
 Pi_m_all = mean(4 * Pi_m_collector_non_behav,3);
 I_m_all  = mean(4 * R_n_m_collector_non_behav,3);
 Y_m_all  = mean(Y_m_collector_non_behav,3);
@@ -82,8 +80,6 @@ catch ME
    rethrow(ME)
 end
 
-
-
 Pi_m_all = mean(4 * Pi_m_collector_behav,3);
 I_m_all  = mean(4 * R_n_m_collector_behav,3);
 Y_m_all  = mean(Y_m_collector_behav,3);
@@ -145,9 +141,6 @@ catch ME
    end
    rethrow(ME)
 end
-
-
-
 
 Pi_m_all = mean(4 * Pi_m_collector,3);
 I_m_all  = mean(4 * R_n_m_collector,3);
